@@ -30,7 +30,7 @@ A place to mess around with Newtonian gravity, orbital motion, and interacting b
 
 ---
 
-**Soft continuum robotics · WPI MER Lab**  
+**Soft continuum robotics · WPI MER Lab Research**  
 Research on a tendon-driven robot that bends instead of moving through rigid joints. I'm working with kinematics and manipulability to understand how its shape changes the motion and forces it can produce.
 
 -> Modeling tendon driven soft 3-module robot under PCC constraints in python from actuator space to 3d task space and image space.
