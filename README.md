@@ -16,7 +16,9 @@ Most of my work sits somewhere between mechanics, embedded software, and figurin
 
 Building my own BB-8: a rolling robot with ESP32 control, Bluetooth input, and a computer vision pipeline. The fun part is getting the electronics, tracking, and mechanism to agree.
 
-[Watch it move ↗](https://www.youtube.com/shorts/LJOWvPuahys) · [Detection + tracking ↗](https://www.youtube.com/shorts/c6eFDMcRZfE)
+· [Watch it move ↗](https://www.youtube.com/shorts/LJOWvPuahys) 
+
+· [Detection + tracking ↗](https://www.youtube.com/shorts/c6eFDMcRZfE)
 
 ---
 
