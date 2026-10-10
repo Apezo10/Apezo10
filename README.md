@@ -18,6 +18,8 @@ Building my own BB-8: a rolling robot with ESP32 control, Bluetooth input, and a
 
 [Watch it move ↗](https://www.youtube.com/shorts/LJOWvPuahys) · [Detection + tracking ↗](https://www.youtube.com/shorts/c6eFDMcRZfE)
 
+---
+
 **[Gravity simulator](https://github.com/Apezo10/Gravity-Simulator)**  
 
 <a href="https://github.com/Apezo10/Gravity-Simulator">
