@@ -9,11 +9,21 @@ Most of my work sits somewhere between mechanics, embedded software, and figurin
 ### On the bench
 
 **[BB-8](https://github.com/Apezo10/Fully-Functional-Autonomous-BB8)**  
+
+<a href="https://github.com/Apezo10/Fully-Functional-Autonomous-BB8">
+  <img src="./assets/bb8-thumbnail.jpg" width="480" alt="BB-8 robotics and computer vision project — CAD view of the robot's internal mechanism" />
+</a>
+
 Building my own BB-8: a rolling robot with ESP32 control, Bluetooth input, and a computer vision pipeline. The fun part is getting the electronics, tracking, and mechanism to agree.
 
 [Watch it move ↗](https://www.youtube.com/shorts/LJOWvPuahys) · [Detection + tracking ↗](https://www.youtube.com/shorts/c6eFDMcRZfE)
 
 **[Gravity simulator](https://github.com/Apezo10/Gravity-Simulator)**  
+
+<a href="https://github.com/Apezo10/Gravity-Simulator">
+  <img src="./assets/gravity-simulator.gif" width="480" alt="Gravity simulator running its mini solar system preset, with colored planets, orbit trails, and a warped grid" />
+</a>
+
 A place to mess around with Newtonian gravity, orbital motion, and interacting bodies. Also an excuse to get better at C++ and building a GUI.
 
 **Soft continuum robotics · WPI MER Lab**  
