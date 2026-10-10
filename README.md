@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/orbit-header.svg" width="100%" alt="Adin Pezo — aerospace, robotics, and controls. Robots on the bench. Orbits on the screen." />
+  <img src="./assets/landing-header.svg" width="100%" alt="Adin Pezo — aerospace, robotics, and controls. NASA illustration of a lunar lander using navigation Doppler lidar for precision landing." />
 </p>
 
 I'm Adin, an aerospace engineering student at **Worcester Polytechnic Institute**. I like writing code that makes something move. Sometimes that's a robot; sometimes it's a few bodies orbiting each other on my screen.
