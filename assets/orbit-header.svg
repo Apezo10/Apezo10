@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Adin Pezo — Aerospace / Robotics / Controls</title>
+<desc id="desc">An orbital diagram on a dark engineering grid, with a small satellite circling the center.</desc>
+<defs>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#213041" stroke-width=".6"/></pattern>
+<radialGradient id="glow"><stop stop-color="#52d6c6" stop-opacity=".15"/><stop offset="1" stop-color="#52d6c6" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+.orbit{transform-origin:975px 170px;animation:orbit 24s linear infinite}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.orbit{animation:none}}
+</style>
+<rect width="1200" height="340" rx="16" fill="#0d1520"/>
+<rect width="1200" height="340" rx="16" fill="url(#grid)"/>
+<circle cx="975" cy="170" r="163" fill="url(#glow)"/>
+<path d="M40 40h24M40 40v24M1160 300h-24M1160 300v-24" fill="none" stroke="#52d6c6" stroke-width="2"/>
+<g font-family="ui-monospace,Consolas,monospace">
+<text x="70" y="84" font-size="15" letter-spacing="3" fill="#52d6c6">APEZO10 / FIELD NOTES</text>
+<text x="66" y="165" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" fill="#edf3f9">Adin Pezo</text>
+<text x="70" y="207" font-size="20" fill="#afbdcc">aerospace / robotics / controls</text>
+<path d="M70 238h580" stroke="#334355"/>
+<text x="70" y="273" font-size="16" fill="#afbdcc">Robots on the bench. Orbits on the screen.</text>
+</g>
+<g fill="none" stroke="#4b647b">
+<circle cx="975" cy="170" r="111" stroke-dasharray="3 8"/>
+<ellipse cx="975" cy="170" rx="155" ry="66" transform="rotate(-30 975 170)"/>
+<ellipse cx="975" cy="170" rx="155" ry="66" transform="rotate(30 975 170)"/>
+<path d="M975 24v292M829 170h292" stroke="#2d4053"/>
+</g>
+<circle cx="975" cy="170" r="24" fill="#142a34" stroke="#52d6c6" stroke-width="2"/>
+<circle cx="975" cy="170" r="6" fill="#52d6c6"/>
+<g class="orbit"><circle cx="1086" cy="170" r="7" fill="#ffb86b"/><path d="M1072 170h-13" stroke="#ffb86b" stroke-width="2"/></g>
+<g font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#71879c"><text x="886" y="311">MODEL → BUILD → TEST</text></g>
+</svg>
+

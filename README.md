@@ -1,47 +1,50 @@
-# Hi, I'm Adin 👋
+<p align="center">
+  <img src="./assets/orbit-header.svg" width="100%" alt="Adin Pezo — aerospace, robotics, and controls. Robots on the bench. Orbits on the screen." />
+</p>
 
-I'm an Aerospace Engineering student at Worcester Polytechnic Institute interested in robotics, controls, autonomy, and embedded systems.
+I'm Adin, an aerospace engineering student at **Worcester Polytechnic Institute**. I like writing code that makes something move. Sometimes that's a robot; sometimes it's a few bodies orbiting each other on my screen.
 
-I enjoy building systems that combine software with real-world motion, from autonomous robots to robotic manipulators and physics simulations.
+Most of my work sits somewhere between mechanics, embedded software, and figuring out what a sensor is actually telling me.
 
-## Projects
+### On the bench
 
-### 🤖 BB-8 Autonomous Robot
+**[BB-8](https://github.com/Apezo10/Fully-Functional-Autonomous-BB8)**  
+Building my own BB-8: a rolling robot with ESP32 control, Bluetooth input, and a computer vision pipeline. The fun part is getting the electronics, tracking, and mechanism to agree.
 
-A custom-built BB-8 inspired robot combining embedded control, sensing, and computer vision.
+[Watch it move ↗](https://www.youtube.com/shorts/LJOWvPuahys) · [Detection + tracking ↗](https://www.youtube.com/shorts/c6eFDMcRZfE)
 
-* ESP32-based motor control
-* MPU-6050 IMU
-* Raspberry Pi computer vision
-* Object detection and tracking
-* BLE control and autonomous behavior
+**[Gravity simulator](https://github.com/Apezo10/Gravity-Simulator)**  
+A place to mess around with Newtonian gravity, orbital motion, and interacting bodies. Also an excuse to get better at C++ and building a GUI.
 
-### 🌌 Gravity Simulation
+**Soft continuum robotics · WPI MER Lab**  
+Research on a tendon-driven robot that bends instead of moving through rigid joints. I'm working with kinematics and manipulability to understand how its shape changes the motion and forces it can produce.
 
-A 2D physics simulation built to explore orbital motion, gravitational interaction, and large-scale dynamical systems.
+<details>
+<summary><b>A little more under the hood</b></summary>
 
-* Physics-based motion simulation
-* Multiple interacting bodies
-* Visualization of gravitational behavior
-* Built as a way to improve my C++ and simulation skills
+<br>
 
-### 🦾 Soft Continuum Robotics Research
+| Project | What I'm working with |
+| :--- | :--- |
+| BB-8 | ESP32, Arduino / PlatformIO, Bluepad32, OpenCV, MobileNet detection + KCF tracking |
+| Gravity simulator | C++, Newtonian physics, interacting bodies, visualization |
+| Continuum robotics | Kinematic models, Jacobians, velocity / force manipulability, vision-guided motion planning |
 
-Research in WPI's Manipulation and Environmental Robotics Lab focused on a tendon-driven soft continuum robot.
+</details>
 
-* Kinematic modeling
-* Jacobian-based analysis
-* Velocity and force manipulability
-* Vision-guided robotics
-* Motion planning and task-conditioned analysis
+### Toolbox
 
-## Tools
+`C++` · `Python` · `MATLAB`  
+ROS · Simulink · OpenCV · ESP32 · Arduino  
+Git · Linux · Onshape
 
-**Languages:** C++, Python, MATLAB
-**Robotics & Controls:** ROS, Simulink, OpenCV
-**Embedded:** ESP32, Arduino
-**Other:** Git, Linux, Onshape
+---
 
-## Interests
+If it rolls, bends, or orbits, I'm probably interested.
 
-Robotics • Controls • Autonomy • Embedded Systems • GNC • Simulation
+[Browse my repos ↗](https://github.com/Apezo10?tab=repositories)
+
+<!-- Layout inspiration: custom SVG imagery and theme-aware assets from Andrew6rant/Andrew6rant;
+     collapsible sections from DenverCoder1/DenverCoder1; casual, compact copy from sindresorhus/sindresorhus.
+     Artwork and wording created specifically for this profile. -->
+
