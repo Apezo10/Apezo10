@@ -62,7 +62,7 @@ Git · Linux · Onshape
 
 ---
 
-If it rolls, bends, or orbits, I'm probably interested.
+If it thinks, flies, or moves, I'm probably interested.
 
 [Browse my repos ↗](https://github.com/Apezo10?tab=repositories)
 
