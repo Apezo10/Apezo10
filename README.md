@@ -28,6 +28,8 @@ Building my own BB-8: a rolling robot with ESP32 control, Bluetooth input, and a
 
 A place to mess around with Newtonian gravity, orbital motion, and interacting bodies. Also an excuse to get better at C++ and building a GUI.
 
+---
+
 **Soft continuum robotics · WPI MER Lab**  
 Research on a tendon-driven robot that bends instead of moving through rigid joints. I'm working with kinematics and manipulability to understand how its shape changes the motion and forces it can produce.
 
