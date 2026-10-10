@@ -33,9 +33,9 @@ A place to mess around with Newtonian gravity, orbital motion, and interacting b
 **Soft continuum robotics · WPI MER Lab**  
 Research on a tendon-driven robot that bends instead of moving through rigid joints. I'm working with kinematics and manipulability to understand how its shape changes the motion and forces it can produce.
 
-Modeling tendon driven soft 3-module robot under PCC constraints in python from actuator space to 3d task space and image space.
-Developed an actuation-aware velocity manipulability framework through physical validation using a C++ based ROS interface.
-Implemented a receding-horizon trajectory optimizer to improve image-space target-reaching performance compared with baseline image-based visual servoing (IBVS).
+-> Modeling tendon driven soft 3-module robot under PCC constraints in python from actuator space to 3d task space and image space.
+-> Developed an actuation-aware velocity manipulability framework through physical validation using a C++ based ROS interface.
+-> Implemented a receding-horizon trajectory optimizer to improve image-space target-reaching performance compared with baseline image-based visual servoing (IBVS).
 
 ---
 
